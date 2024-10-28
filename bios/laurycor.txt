@@ -1,0 +1,6 @@
+echo "Favorite food: [Pizza]" > laurycor.txt
+
+git add bios/laurycor.txt
+git commit -m "Added bio file with favorite food"
+
+
